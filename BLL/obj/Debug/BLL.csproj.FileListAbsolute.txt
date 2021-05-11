@@ -1,0 +1,24 @@
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\BLL\bin\Debug\BLL.dll
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\BLL\bin\Debug\BLL.pdb
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\BLL\obj\Debug\BLL.dll
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\BLL\obj\Debug\BLL.pdb
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\BLL\bin\Debug\BLL.dll
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\BLL\bin\Debug\BLL.pdb
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\BLL\obj\Debug\BLL.dll
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\BLL\obj\Debug\BLL.pdb
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\BLL\bin\Debug\BLL.dll
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\BLL\bin\Debug\BLL.pdb
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\BLL\obj\Debug\BLL.dll
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\BLL\obj\Debug\BLL.pdb
+C:\Users\r\Desktop\c# project\FileEplorer\BLL\bin\Debug\BLL.dll
+C:\Users\r\Desktop\c# project\FileEplorer\BLL\bin\Debug\BLL.pdb
+C:\Users\r\Desktop\c# project\FileEplorer\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\r\Desktop\c# project\FileEplorer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\r\Desktop\c# project\FileEplorer\BLL\obj\Debug\BLL.dll
+C:\Users\r\Desktop\c# project\FileEplorer\BLL\obj\Debug\BLL.pdb

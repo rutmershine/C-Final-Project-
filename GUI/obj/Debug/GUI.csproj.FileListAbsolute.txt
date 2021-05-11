@@ -1,0 +1,49 @@
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\GUI\bin\Debug\GUI.exe.config
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\GUI\bin\Debug\GUI.exe
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\GUI\bin\Debug\GUI.pdb
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\GUI\obj\Debug\GUI.Form1.resources
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\GUI\obj\Debug\GUI.exe
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\GUI\obj\Debug\GUI.pdb
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\bin\Debug\GUI.exe.config
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\bin\Debug\GUI.exe
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\bin\Debug\GUI.pdb
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\bin\Debug\BLL.dll
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\bin\Debug\BLL.pdb
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\obj\Debug\GUI.Form1.resources
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\obj\Debug\GUI.exe
+D:\תכנות - שנה ב\MALKY SILBERBERG-C#\new\FileEplorer\GUI\obj\Debug\GUI.pdb
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\bin\Debug\GUI.exe.config
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\bin\Debug\GUI.exe
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\bin\Debug\GUI.pdb
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\bin\Debug\BLL.dll
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\bin\Debug\BLL.pdb
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\obj\Debug\GUI.exe
+C:\Users\r\Desktop\‏‏תיקיה חדשה (2)\FileEplorer\GUI\obj\Debug\GUI.pdb
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\bin\Debug\GUI.exe.config
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\bin\Debug\GUI.exe
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\bin\Debug\GUI.pdb
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\bin\Debug\BLL.dll
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\bin\Debug\BLL.pdb
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\obj\Debug\GUI.exe
+C:\Users\r\Desktop\c# project\FileEplorer\GUI\obj\Debug\GUI.pdb

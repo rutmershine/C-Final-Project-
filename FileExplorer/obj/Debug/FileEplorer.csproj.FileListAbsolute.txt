@@ -1,0 +1,6 @@
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\FileEplorer\bin\Debug\FileEplorer.dll
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\FileEplorer\bin\Debug\FileEplorer.pdb
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\FileEplorer\obj\Debug\FileEplorer.csprojAssemblyReference.cache
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\FileEplorer\obj\Debug\FileEplorer.csproj.CoreCompileInputs.cache
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\FileEplorer\obj\Debug\FileEplorer.dll
+E:\YearB\C#\MALKY SILBERBERG\update final project\FileEplorer\FileEplorer\obj\Debug\FileEplorer.pdb
